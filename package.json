@@ -87,7 +87,7 @@
     "mkdirp": "^0.5.1",
     "reflect-metadata": "^0.1.10",
     "xml2js": "^0.4.17",
-    "yargonaut": "^1.1.2",
+    "yargonaut": "^1.1.4",
     "yargs": "^9.0.1"
   },
   "scripts": {
