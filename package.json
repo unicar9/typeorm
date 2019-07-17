@@ -85,7 +85,7 @@
     "glob": "^7.1.2",
     "js-yaml": "^3.8.4",
     "mkdirp": "^0.5.1",
-    "reflect-metadata": "^0.1.10",
+    "reflect-metadata": "^0.1.13",
     "xml2js": "^0.4.17",
     "yargonaut": "^1.1.2",
     "yargs": "^9.0.1"
