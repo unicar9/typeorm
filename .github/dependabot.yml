@@ -1,0 +1,18 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "19:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: redis
+    versions:
+    - 3.1.2
+  - dependency-name: sqlite3
+    versions:
+    - 5.0.1
+  - dependency-name: sql.js
+    versions:
+    - 1.4.0
